@@ -237,7 +237,7 @@ export default class extends wepy.app {
   }
 
   globalData = {
-    api_token: '0RPJhqvW6gMp', // 请修改为您在https://readfollow.com/tenancy/auth/setting#tab-form-2 看到的api token (如果报错，请检查小程序appID跟后台是否对应修改好了)
+    api_token: 'bR43SKWv2aDn', // 请修改为您在https://readfollow.com/tenancy/auth/setting#tab-form-2 看到的api token (如果报错，请检查小程序appID跟后台是否对应修改好了)
     session: '',
     ads: [],
     carousels: [],
